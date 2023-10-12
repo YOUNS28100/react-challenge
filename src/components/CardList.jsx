@@ -12,6 +12,7 @@ function CardList({ data }) {
           description={e.description}
           image={e.image}
           price={e.price}
+          category={e.category}
         />
       ))}
     </div>
