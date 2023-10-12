@@ -1,0 +1,18 @@
+body {
+    background-color: #D3D3DB;
+}
+
+footer {
+    background-color: #bba14f;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-radius: 10px;
+    width: 100%;
+}
+
+p {
+    font-family: 'Libre Baskerville',
+        serif;
+    padding: 6px;
+}
