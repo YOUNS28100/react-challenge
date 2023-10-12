@@ -1,18 +1,16 @@
 body {
-    background-color: #D3D3DB;
+  background-color: #d3d3db;
 }
 
 footer {
-    background-color: #bba14f;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    border-radius: 10px;
-    width: 100%;
+  background-color: #bba14f;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
 }
 
 p {
-    font-family: 'Libre Baskerville',
-        serif;
-    padding: 6px;
+  font-family: "Libre Baskerville", serif;
+  padding: 6px;
 }
